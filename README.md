@@ -11,7 +11,7 @@
 
 ## 发布前
 
-1. 运营者法定名称、注册地址、隐私联系邮箱、个人信息保护负责人已补齐并经用户确认；
+1. 个人运营者姓名/称谓、专用隐私联系邮箱、适用法律要求的负责人/代表安排已补齐并经本人确认；不公开家庭住址、个人电话或未授权邮箱；
 2. `privacy-policy.md` 与 `site/index.html` 已同步；
 3. 页面不再包含 “发布前阻断项 / 尚未提供 / [待填写]”；
 4. 本地静态校验、移动端 390×844 检查、内容完整性检查通过；
@@ -19,7 +19,7 @@
 
 ## GitHub Pages
 
-- 新建**独立公开仓库**（例如 `sijichangqing-privacy`），只提交上述静态文件；
+- 目标仓库（建议）：`wangxiaowen118-cyber/sijichangqing-privacy`；**尚未创建远端、尚未推送**；只提交上述静态文件；
 - Settings → Pages → Deploy from a branch → `main` / root；
 - 开启 Enforce HTTPS；
 - 记录真实 URL（形如 `https://<owner>.github.io/<repo>/`）；

@@ -1,16 +1,19 @@
 ﻿{
-    "generatedAt":  "2026-10-31T14:36:28.2403824Z",
-    "sha256":  "cc94aef8e6fa0f009a3c446a9febec3bfd4dc8711ba2e29f47eac97b5e299850",
-    "size":  11865,
+    "generatedAt":  "2026-10-31T15:12:40.1808052Z",
+    "sha256":  "605dff91baf6f5fff9be04de5361255d44430cbb7beade64f976d8b2c7e3509c",
+    "size":  12272,
     "files":  [
                   ".nojekyll",
                   "404.html",
                   "deployment-manifest.json",
                   "index.html",
-                  "README.md"
+                  "README.md",
+                  "SECURITY_SCAN.json",
+                  "SECURITY_SCAN.md"
               ],
     "publishable":  false,
     "published":  false,
     "publicUrl":  null,
+    "expectedRemote":  "wangxiaowen118-cyber/sijichangqing-privacy",
     "note":  "Static-only GitHub Pages package; no App source/secrets. Not deployed."
 }
