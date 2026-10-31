@@ -1,6 +1,8 @@
 # GitHub Pages 公开仓库安全检查
 
-状态：**PASS（仅静态政策包）**；发布状态：**PUBLISHED**；内容状态：**PUBLISH_READY**。目标远端：wangxiaowen118-cyber/sijichangqing-privacy（当前不存在/未推送）。
+状态：**PASS（仅静态政策包）**；发布状态：**PUBLISHED**。
+
+公开 URL：https://wangxiaowen118-cyber.github.io/sijichangqing-privacy/
 
 ## 文件（7）
 
@@ -8,11 +10,11 @@
 |---|---:|---|
 | .nojekyll | 0 | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 |
 | 404.html | 80 | e338192e84f17f5e8f2d656deb26c470b325719b6547a0e7296e5381d6d0b40c |
-| deployment-manifest.json | 691 | b631358e87f932f349c96647f8d4ca23d450c651daf157453c73554b7241fc4a |
-| index.html | 12358 | 7da10cf8f713857d644687145d7ede57f9e89045069b3edc0729db65934f303b |
-| README.md | 1353 | 99c4f73ce3816bf835188acd0cfa049a72459eb743623630b6d1ed743ef7f38b |
-| SECURITY_SCAN.json | 1794 | a9a49d9f00f31265788b856160b2394c133912115416af69dd03f6c803cbdec3 |
-| SECURITY_SCAN.md | 1554 | c65baea0d8e1ca9ae00479d3c759cabb557c4cb85ba871a0f107dc9b484c977a |
+| deployment-manifest.json | 691 | ea8e66c54d1fa1f42c8e05024edbfdd3cc7acd691d85c20f30b5d1c72121211f |
+| index.html | 13153 | fd716a094d4df1f8e0cd13280e68e527677262ecd1b93bcb4d8eebefe0a8ed73 |
+| README.md | 1335 | 791daecb3395bdf9629b5651e91e5ef61143128a50b851e62b262ad99b742937 |
+| SECURITY_SCAN.json | 1794 | 867bdc48bf9b19dd6dfac5e57a45da6e763f787bf0946786a6fae0733d6712e7 |
+| SECURITY_SCAN.md | 1577 | 4326e8a2042b161ec24cd27bbd6ce0c0da30f0bf7d08ea1373f114ca84610a23 |
 
 ## 检查
 
@@ -29,4 +31,4 @@
 
 - 仅包含隐私政策静态文件；允许的隐私联系邮箱为 hhw19830209@hotmail.com，其他邮箱会使扫描失败。
 - 未包含 App 源码、构建产物、用户数据、日志、JWT、密码、APNs/.p8、Firebase 凭据、数据库 URI 或密钥。
-- 页面无 JS/iframe/外部资源；公开仓库已发布：https://wangxiaowen118-cyber.github.io/sijichangqing-privacy/。
+- 页面无 JS/iframe/外部资源；政策已按实际功能修正。
