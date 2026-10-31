@@ -15,12 +15,12 @@
     {
       "name": "deployment-manifest.json",
       "bytes": 692,
-      "sha256": "c4f6e4829ddf920882404a1e009b5d405a1dc572e6adfb6cd2f4a714606cd894"
+      "sha256": "b241f622d0bf2f0c147f88490e0a27f944f52396b3806b0e5be0504fc471a3ab"
     },
     {
       "name": "index.html",
-      "bytes": 12272,
-      "sha256": "605dff91baf6f5fff9be04de5361255d44430cbb7beade64f976d8b2c7e3509c"
+      "bytes": 12483,
+      "sha256": "3335c27106fed07702f9d326fc7376298c45103bb15a57fc936320acbdd6d684"
     },
     {
       "name": "README.md",
@@ -29,13 +29,13 @@
     },
     {
       "name": "SECURITY_SCAN.json",
-      "bytes": 1670,
-      "sha256": "6ceb0a38649d0967d166b4688edbbbe437a6dc70c43956e1c75d48720cebcbff"
+      "bytes": 1704,
+      "sha256": "99325b205f7543078b717183e02665ba402e830791b9ea71330e98cbaa89b601"
     },
     {
       "name": "SECURITY_SCAN.md",
-      "bytes": 1404,
-      "sha256": "16dda577fdd9eda0e2f0870d8196d9c88e6078d1773c47892fd279e8317955b6"
+      "bytes": 1500,
+      "sha256": "072b6cd79242aed743f8d7d13c97f3ba481498529aa0971d6c32dd9bfde70cb5"
     }
   ],
   "unexpectedFiles": [],
@@ -48,8 +48,9 @@
     "noFirebaseCredential": true,
     "noActiveContent": true,
     "noExternalResources": true,
-    "noEmailAddress": true
+    "onlyAuthorizedPrivacyEmail": true
   },
   "publicationState": "NOT_PUBLISHED",
-  "note": "Only the static privacy policy package is scanned. No App source, build output, user data, credentials, logs, or keys are included."
+  "authorizedPrivacyEmailPresent": true,
+  "note": "Only the static privacy policy package is scanned. The approved privacy contact email is allowed; all other emails fail. No App source, build output, user data, credentials, logs, or keys are included."
 }
