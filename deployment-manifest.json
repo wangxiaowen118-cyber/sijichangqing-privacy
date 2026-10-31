@@ -1,0 +1,16 @@
+﻿{
+    "generatedAt":  "2026-10-31T14:36:28.2403824Z",
+    "sha256":  "cc94aef8e6fa0f009a3c446a9febec3bfd4dc8711ba2e29f47eac97b5e299850",
+    "size":  11865,
+    "files":  [
+                  ".nojekyll",
+                  "404.html",
+                  "deployment-manifest.json",
+                  "index.html",
+                  "README.md"
+              ],
+    "publishable":  false,
+    "published":  false,
+    "publicUrl":  null,
+    "note":  "Static-only GitHub Pages package; no App source/secrets. Not deployed."
+}

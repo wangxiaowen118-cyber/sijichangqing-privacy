@@ -1,0 +1,55 @@
+{
+  "kind": "GITHUB_PAGES_PUBLIC_REPO_SECURITY_SCAN",
+  "root": ".",
+  "files": [
+    {
+      "name": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "404.html",
+      "bytes": 80,
+      "sha256": "e338192e84f17f5e8f2d656deb26c470b325719b6547a0e7296e5381d6d0b40c"
+    },
+    {
+      "name": "deployment-manifest.json",
+      "bytes": 542,
+      "sha256": "2ce6e62254d7afb49152e6021103bbc6f99bc5325661b23bd29c0806ce1c740e"
+    },
+    {
+      "name": "index.html",
+      "bytes": 11865,
+      "sha256": "cc94aef8e6fa0f009a3c446a9febec3bfd4dc8711ba2e29f47eac97b5e299850"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1283,
+      "sha256": "591b0d2bc46e01e959f84528132b379a185653f33938858c6891e553468bbda7"
+    },
+    {
+      "name": "SECURITY_SCAN.json",
+      "bytes": 1694,
+      "sha256": "5e9b8079a99c2a937964bb900843674d4f10ef97de8948a11034a5c30e2dda83"
+    },
+    {
+      "name": "SECURITY_SCAN.md",
+      "bytes": 1204,
+      "sha256": "d15464627e51bf9da5b89a8d54fa590014ff0eebc0915726308aaf8eb4f3e8f3"
+    }
+  ],
+  "unexpectedFiles": [],
+  "issues": [],
+  "checks": {
+    "onlyAllowedFiles": true,
+    "noPrivateKeysOrProviderKeys": true,
+    "noDatabaseUri": true,
+    "noJwtOrPassword": true,
+    "noFirebaseCredential": true,
+    "noActiveContent": true,
+    "noExternalResources": true,
+    "noEmailAddress": true
+  },
+  "publicationState": "NOT_PUBLISHED",
+  "note": "Only the static privacy policy package is scanned. No App source, build output, user data, credentials, logs, or keys are included."
+}
