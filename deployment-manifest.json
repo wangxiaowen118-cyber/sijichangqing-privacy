@@ -1,7 +1,7 @@
 ﻿{
-    "generatedAt":  "2026-10-31T16:21:15.6782517Z",
-    "sha256":  "1ef071d32d3f85e338c59143f9775eec7411b6b1ae81da3ff80b79c8d4b7468e",
-    "size":  12501,
+    "generatedAt":  "2026-10-31T16:27:16.6891685Z",
+    "sha256":  "7da10cf8f713857d644687145d7ede57f9e89045069b3edc0729db65934f303b",
+    "size":  12358,
     "files":  [
                   ".nojekyll",
                   "404.html",
@@ -11,7 +11,7 @@
                   "SECURITY_SCAN.json",
                   "SECURITY_SCAN.md"
               ],
-    "publishable":  false,
+    "publishable":  true,
     "published":  false,
     "publicUrl":  null,
     "expectedRemote":  "wangxiaowen118-cyber/sijichangqing-privacy",
