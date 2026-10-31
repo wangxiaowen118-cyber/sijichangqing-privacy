@@ -29,13 +29,13 @@
     },
     {
       "name": "SECURITY_SCAN.json",
-      "bytes": 1694,
-      "sha256": "5e9b8079a99c2a937964bb900843674d4f10ef97de8948a11034a5c30e2dda83"
+      "bytes": 1670,
+      "sha256": "d69490fb5c1e3d449052ca30d75a8be00f8c9077b1fb64dffc4bc2001eccc033"
     },
     {
       "name": "SECURITY_SCAN.md",
-      "bytes": 1204,
-      "sha256": "d15464627e51bf9da5b89a8d54fa590014ff0eebc0915726308aaf8eb4f3e8f3"
+      "bytes": 1404,
+      "sha256": "16dda577fdd9eda0e2f0870d8196d9c88e6078d1773c47892fd279e8317955b6"
     }
   ],
   "unexpectedFiles": [],
