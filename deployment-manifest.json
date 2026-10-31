@@ -1,19 +1,20 @@
-﻿{
-    "generatedAt":  "2026-10-31T16:35:52.4528716Z",
-    "sha256":  "7da10cf8f713857d644687145d7ede57f9e89045069b3edc0729db65934f303b",
-    "size":  12358,
-    "files":  [
-                  ".nojekyll",
-                  "404.html",
-                  "deployment-manifest.json",
-                  "index.html",
-                  "README.md",
-                  "SECURITY_SCAN.json",
-                  "SECURITY_SCAN.md"
-              ],
-    "publishable":  true,
-    "published":  false,
-    "publicUrl":  null,
-    "expectedRemote":  "wangxiaowen118-cyber/sijichangqing-privacy",
-    "note":  "Static-only GitHub Pages package; no App source/secrets. Not deployed."
+{
+  "generatedAt": "2026-10-31T16:35:52.4528716Z",
+  "sha256": "7da10cf8f713857d644687145d7ede57f9e89045069b3edc0729db65934f303b",
+  "size": 12358,
+  "files": [
+    ".nojekyll",
+    "404.html",
+    "deployment-manifest.json",
+    "index.html",
+    "README.md",
+    "SECURITY_SCAN.json",
+    "SECURITY_SCAN.md"
+  ],
+  "publishable": true,
+  "published": true,
+  "publicUrl": "https://wangxiaowen118-cyber.github.io/sijichangqing-privacy/",
+  "expectedRemote": "wangxiaowen118-cyber/sijichangqing-privacy",
+  "note": "Static-only GitHub Pages package; live on GitHub Pages; no App source/secrets.",
+  "githubRepo": "https://github.com/wangxiaowen118-cyber/sijichangqing-privacy"
 }

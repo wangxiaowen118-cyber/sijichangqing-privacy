@@ -19,10 +19,10 @@
 
 ## GitHub Pages
 
-- 目标仓库（建议）：`wangxiaowen118-cyber/sijichangqing-privacy`；**尚未创建远端、尚未推送**；只提交上述静态文件；
+- 已发布仓库：`https://github.com/wangxiaowen118-cyber/sijichangqing-privacy`；只提交上述静态文件；
 - Settings → Pages → Deploy from a branch → `main` / root；
 - 开启 Enforce HTTPS；
-- 记录真实 URL（形如 `https://<owner>.github.io/<repo>/`）；
+- 真实 URL：`https://wangxiaowen118-cyber.github.io/sijichangqing-privacy/`；
 - 该 URL 必须实际可访问且返回政策正文，才能填入 App Store Connect。
 
 ## 禁止

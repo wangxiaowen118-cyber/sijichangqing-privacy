@@ -1,6 +1,6 @@
 # GitHub Pages 公开仓库安全检查
 
-状态：**PASS（仅静态政策包）**；发布状态：**NOT_PUBLISHED**；内容状态：**PUBLISH_READY**。目标远端：wangxiaowen118-cyber/sijichangqing-privacy（当前不存在/未推送）。
+状态：**PASS（仅静态政策包）**；发布状态：**PUBLISHED**；内容状态：**PUBLISH_READY**。目标远端：wangxiaowen118-cyber/sijichangqing-privacy（当前不存在/未推送）。
 
 ## 文件（7）
 
@@ -29,4 +29,4 @@
 
 - 仅包含隐私政策静态文件；允许的隐私联系邮箱为 hhw19830209@hotmail.com，其他邮箱会使扫描失败。
 - 未包含 App 源码、构建产物、用户数据、日志、JWT、密码、APNs/.p8、Firebase 凭据、数据库 URI 或密钥。
-- 页面无 JS/iframe/外部资源；公开仓库尚未创建/推送；正式发布仍须本人确认。
+- 页面无 JS/iframe/外部资源；公开仓库已发布：https://wangxiaowen118-cyber.github.io/sijichangqing-privacy/。
